@@ -1,4 +1,4 @@
-module github.com/marvin9002/consul/v2
+module github.com/marvin9002/consul/v1
 
 go 1.15
 
